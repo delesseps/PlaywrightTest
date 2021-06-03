@@ -1,0 +1,22 @@
+{
+  "name": "playwrightpi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "ts-mixer": "^5.4.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^0.1101.0",
+    "playwright": "^1.11.1"
+  },
+  "scripts": {
+    "test": "npx folio --update-snapshots  --reporter=list --workers=6"
+  },
+  "author": "",
+  "license": "ISC"
+}

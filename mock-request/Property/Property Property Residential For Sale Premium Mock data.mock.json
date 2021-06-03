@@ -1,0 +1,2865 @@
+{
+    "TotalCount": 610,
+    "Page": 1,
+    "PageSize": 24,
+    "List": [
+        {
+            "ListingId": 2046136122,
+            "Title": "Premium listing first FREEHOLD & FAMILY FRIENDLY",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1556678213283)/",
+            "EndDate": "/Date(1561521861963)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133653)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455078.jpg",
+            "RegionId": 1,
+            "Region": "Auckland",
+            "SuburbId": 366,
+            "Suburb": "Weymouth",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1557021600000)/",
+                    "End": "/Date(1557023400000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -37.0418824,
+                "Longitude": 174.8649315,
+                "Northing": 5898855,
+                "Easting": 1765851,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Price by negotiation",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455091.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455104.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455116.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455132.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455147.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455156.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455166.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455183.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455193.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455204.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455216.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455225.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455241.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455250.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455260.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455270.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455283.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455294.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028455307.jpg"
+            ],
+            "HasEmbeddedVideo": true,
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/auckland/manukau-city/weymouth/listing/2046136122",
+            "ListingExtras": [
+                "premium_listing"
+            ],
+            "MemberId": 3761264,
+            "Address": "475 Weymouth Road",
+            "District": "Manukau City",
+            "AgencyReference": "MKU27523",
+            "Area": 90,
+            "LandArea": 610,
+            "Bathrooms": 1,
+            "Bedrooms": 3,
+            "ListingGroup": "PROPERTY",
+            "Parking": "2 car spaces",
+            "PropertyType": "House",
+            "RateableValue": 560000,
+            "AdjacentSuburbNames": [
+                "Clendon Park",
+                "Weymouth"
+            ],
+            "AdjacentSuburbIds": [
+                365,
+                366
+            ],
+            "DistrictId": 8,
+            "Agency": {
+                "Id": 6525,
+                "Name": "Ray White Manukau (A T Realty Ltd), (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-2622250",
+                "Website": "http://rwmanukau.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3761264-8.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "Ray White Manukau",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3761264-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Shane Hodgson",
+                        "MobilePhoneNumber": "(021) 0400418",
+                        "OfficePhoneNumber": "(09) 3904295",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5670639v1.jpg",
+                        "UrlSlug": "Shane-Hodgson"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2037358759,
+            "Title": "Tiny Houses, Big Impact!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1556069554333)/",
+            "EndDate": "/Date(1561513791543)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133653)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414763.jpg",
+            "RegionId": 3,
+            "Region": "Canterbury",
+            "SuburbId": 2188,
+            "Suburb": "Waltham",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1556940600000)/",
+                    "End": "/Date(1556942400000)/"
+                },
+                {
+                    "Start": "/Date(1557027000000)/",
+                    "End": "/Date(1557028800000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -43.5477977,
+                "Longitude": 172.6618248,
+                "Northing": 5178295,
+                "Easting": 1572682,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "To be auctioned",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414802.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414830.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414860.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414890.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414916.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414946.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028414987.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415053.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415082.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415106.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415135.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415157.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415185.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415213.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028415236.jpg"
+            ],
+            "HasEmbeddedVideo": true,
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/waltham/listing/2037358759",
+            "ListingExtras": [
+                "premium_listing"
+            ],
+            "MemberId": 2548643,
+            "Address": "90 Ensors Road",
+            "District": "Christchurch City",
+            "AgencyReference": "OPA24649",
+            "Area": 23,
+            "Bathrooms": 1,
+            "Bedrooms": 1,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "House",
+            "AdjacentSuburbNames": [
+                "Beckenham",
+                "Murray Aynsley",
+                "Woolston",
+                "Opawa",
+                "St. Martins",
+                "Waltham",
+                "Phillipstown",
+                "Heathcote",
+                "Linwood",
+                "Sydenham",
+                "North Linwood"
+            ],
+            "AdjacentSuburbIds": [
+                2338,
+                2183,
+                2185,
+                2186,
+                2187,
+                2188,
+                2216,
+                2455,
+                2238,
+                2180,
+                2389
+            ],
+            "DistrictId": 60,
+            "Agency": {
+                "Id": 4249,
+                "Name": "Ray White Ferrymead, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-3844179",
+                "FaxNumber": "+64-3-3316005",
+                "Website": "http://www.rwferrymead.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2548643-8.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2548643-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Eddie Spry",
+                        "MobilePhoneNumber": "(021) 1565884",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1672317v3.jpg",
+                        "UrlSlug": "Eddie-Spry"
+                    },
+                    {
+                        "FullName": "Matthew Clayton",
+                        "MobilePhoneNumber": "(021) 2233998",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile448121v3.jpg",
+                        "UrlSlug": "Matt-Clayton"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2030105486,
+            "Title": "Basic first 1485m2 Lake Edge Section",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555561190020)/",
+            "EndDate": "/Date(1560402950020)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133653)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982568.jpg",
+            "RegionId": 14,
+            "Region": "Waikato",
+            "SuburbId": 1301,
+            "Suburb": "Town Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -38.7152714,
+                "Longitude": 176.0284018,
+                "Northing": 5710465,
+                "Easting": 1863309,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Price by negotiation",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982584.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982604.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982608.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982626.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982636.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982641.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982660.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982672.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982683.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982688.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982702.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982713.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982726.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982743.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982754.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982765.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982776.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982789.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019982797.jpg"
+            ],
+            "HasEmbeddedVideo": true,
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/waikato/taupo/town-centre/listing/2030105486",
+            "MemberId": 1691171,
+            "Address": "55 Parawera Drive",
+            "District": "Taupo",
+            "AgencyReference": "TPO28963",
+            "LandArea": 1485,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "AdjacentSuburbNames": [
+                "Tauhara",
+                "Nukuhau",
+                "Town Centre",
+                "Hilltop",
+                "Rangatira Park"
+            ],
+            "AdjacentSuburbIds": [
+                1023,
+                1107,
+                1301,
+                1330,
+                3512
+            ],
+            "DistrictId": 21,
+            "Agency": {
+                "Id": 2855,
+                "Name": "Talk Property Limited, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-7-3781112",
+                "FaxNumber": "+64-7-3780305",
+                "Website": "https://taupo.harcourts.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1691171-5.jpg",
+                "Branding": {
+                    "BackgroundColor": "#002049",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#002049",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1691171-office_branding-3.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1691171-2.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "Hugh Milloy",
+                        "MobilePhoneNumber": "(021) 901390",
+                        "OfficePhoneNumber": "(07) 3781112",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1463806v1.jpg",
+                        "UrlSlug": "Hugh-Milloy"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2022511880,
+            "Title": "Find me a better deal!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555040661573)/",
+            "EndDate": "/Date(1561221037310)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133653)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726296.jpg",
+            "RegionId": 15,
+            "Region": "Wellington",
+            "SuburbId": 874,
+            "Suburb": "Hataitai",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1557019800000)/",
+                    "End": "/Date(1557021600000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -41.3028369,
+                "Longitude": 174.8039997,
+                "Northing": 5426055,
+                "Easting": 1751026,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "For sale by tender",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726319.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726339.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726356.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726394.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726427.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726446.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726482.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726507.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726529.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726546.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726569.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726586.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726610.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726630.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726651.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726679.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726708.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015726729.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/wellington/wellington/hataitai/listing/2022511880",
+            "MemberId": 4581400,
+            "Address": "79/305 Evans Bay Parade",
+            "District": "Wellington",
+            "AgencyReference": "460977",
+            "Area": 161,
+            "Bathrooms": 2,
+            "Bedrooms": 4,
+            "ListingGroup": "PROPERTY",
+            "Parking": "1 car garaging",
+            "PropertyType": "Townhouse",
+            "AdjacentSuburbNames": [
+                "Roseneath",
+                "Newtown",
+                "Mount Cook",
+                "Oriental Bay",
+                "Maupuia",
+                "Wellington Central",
+                "Evans Bay",
+                "Te Aro",
+                "Hataitai",
+                "Kilbirnie",
+                "Mount Victoria"
+            ],
+            "AdjacentSuburbIds": [
+                1566,
+                1124,
+                1450,
+                3040,
+                3042,
+                3054,
+                3164,
+                1486,
+                874,
+                1294,
+                1326
+            ],
+            "DistrictId": 47,
+            "Agency": {
+                "Id": 7787,
+                "Name": "Century 21 First Choice Realty, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-4-9386884",
+                "Website": "http://www.century21.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4581400-7.jpg",
+                "Branding": {
+                    "BackgroundColor": "#252527",
+                    "TextColor": "#beb18e",
+                    "StrokeColor": "#252527",
+                    "OfficeLocation": "Century 21 First Choice Realty",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4581400-office_branding-2.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4581400-1.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "Jeh Wasti",
+                        "OfficePhoneNumber": "(021) 2167966",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6841797v1.jpg",
+                        "UrlSlug": "Jeh-Wasti"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2019712773,
+            "Title": "Build A Stones Throw From The Bay",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1554852673333)/",
+            "EndDate": "/Date(1560115446767)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1014196092.jpg",
+            "RegionId": 10,
+            "Region": "Otago",
+            "SuburbId": 2176,
+            "Suburb": "Port Chalmers",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -45.8083231,
+                "Longitude": 170.6214247,
+                "Northing": 4924497,
+                "Easting": 1415188,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Deadline sale",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1014196103.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1014196127.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1014196138.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/otago/dunedin/port-chalmers/listing/2019712773",
+            "MemberId": 3091500,
+            "Address": "15 Slant Street",
+            "District": "Dunedin",
+            "AgencyReference": "RX1856674",
+            "LandArea": 675,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "AdjacentSuburbNames": [
+                "Sawyers Bay",
+                "Roseneath",
+                "Port Chalmers",
+                "Careys Bay"
+            ],
+            "AdjacentSuburbIds": [
+                2209,
+                3036,
+                2176,
+                3565
+            ],
+            "DistrictId": 71,
+            "Agency": {
+                "Id": 5284,
+                "Name": "LJ Hooker Dunedin, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-4701370",
+                "Website": "http://www.ljhooker.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3091500-2.jpg",
+                "Branding": {
+                    "BackgroundColor": "#000000",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "LJ Hooker Dunedin",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3091500-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Pam Mulder",
+                        "OfficePhoneNumber": "(027) 4543366"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2004803412,
+            "Title": "Elevated Section with Views",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1553823499870)/",
+            "EndDate": "/Date(1558665628603)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1005344257.jpg",
+            "RegionId": 6,
+            "Region": "Manawatu / Wanganui",
+            "SuburbId": 1741,
+            "Suburb": "Saint Johns Hill",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -39.9136549,
+                "Longitude": 175.023836,
+                "Northing": 5579866,
+                "Easting": 1772978,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Asking price: $75,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005344281.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005344316.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005344345.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/manawatu-wanganui/wanganui/saint-johns-hill/listing/2004803412",
+            "MemberId": 1247420,
+            "Address": "6 Sandy Lane",
+            "District": "Wanganui",
+            "AgencyReference": "WAN28617",
+            "LandArea": 1247,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "RateableValue": 75000,
+            "AdjacentSuburbNames": [
+                "Saint Johns Hill",
+                "Otamatea",
+                "City Centre",
+                "College Estate",
+                "Springvale"
+            ],
+            "AdjacentSuburbIds": [
+                1741,
+                1742,
+                1672,
+                3177,
+                2077
+            ],
+            "DistrictId": 37,
+            "Agency": {
+                "Id": 2107,
+                "Name": "Ray White Wanganui (Wanganui Real Estate Ltd), (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-6-3477777",
+                "FaxNumber": "+64-6-3451820",
+                "Website": "http://www.rwwanganui.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247420-7.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247420-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Deborah Hipango",
+                        "MobilePhoneNumber": "(022) 3400877",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6220399v3.jpg",
+                        "UrlSlug": "Deborah-Hipango"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2004789770,
+            "Title": "Out of the hotel pool- buy one or two?",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1553822741920)/",
+            "EndDate": "/Date(1561590200230)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430590.jpg",
+            "RegionId": 1,
+            "Region": "Auckland",
+            "SuburbId": 89,
+            "Suburb": "City Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1556931600000)/",
+                    "End": "/Date(1556933400000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -36.84738,
+                "Longitude": 174.7642554,
+                "Northing": 5920605,
+                "Easting": 1757297,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Deadline sale",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430611.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430632.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430650.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430668.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430691.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430711.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430746.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430785.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430813.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430837.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430865.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430892.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430922.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430943.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028430971.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/auckland/auckland-city/city-centre/listing/2004789770",
+            "MemberId": 1247335,
+            "Address": "2103/74 Albert Street",
+            "District": "Auckland City",
+            "AgencyReference": "EPS23659",
+            "Bathrooms": 1,
+            "Bedrooms": 1,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Apartment",
+            "AdjacentSuburbNames": [
+                "Parnell",
+                "Newton",
+                "Ponsonby",
+                "Freemans Bay",
+                "City Centre",
+                "Saint Marys Bay",
+                "Newmarket",
+                "Arch Hill",
+                "Eden Terrace",
+                "Grafton",
+                "Wynyard Quarter"
+            ],
+            "AdjacentSuburbIds": [
+                41,
+                82,
+                83,
+                88,
+                89,
+                91,
+                99,
+                3256,
+                135,
+                136,
+                3566
+            ],
+            "DistrictId": 7,
+            "Agency": {
+                "Id": 2017,
+                "Name": "Ray White Epsom (Black Group Realty Limited) Licensed (REAA 2008), (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-638 8640",
+                "FaxNumber": "+64-9-6230157",
+                "Website": "http://www.rwepsom.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247335-7.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247335-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Rae Zhang",
+                        "MobilePhoneNumber": "(021) 629912",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4243959v3.jpg",
+                        "UrlSlug": "Rae-Zhang"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2044870768,
+            "Title": "Entry Level Project - Must Be Sold!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1556599652680)/",
+            "EndDate": "/Date(1561533465110)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658041.jpg",
+            "RegionId": 3,
+            "Region": "Canterbury",
+            "SuburbId": 2178,
+            "Suburb": "Spreydon",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1557018000000)/",
+                    "End": "/Date(1557019800000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -43.5491211,
+                "Longitude": 172.6185332,
+                "Northing": 5178133,
+                "Easting": 1569186,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Deadline sale",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658059.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658075.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658095.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658111.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658129.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658147.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658182.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658203.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658235.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658262.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1028658284.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/spreydon/listing/2044870768",
+            "MemberId": 1836988,
+            "Address": "3/14 Willard Street",
+            "District": "Christchurch City",
+            "AgencyReference": "NTW25953",
+            "Area": 40,
+            "Bathrooms": 1,
+            "Bedrooms": 2,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Unit",
+            "AdjacentSuburbNames": [
+                "Beckenham",
+                "Addington",
+                "Hoon Hay",
+                "Spreydon",
+                "Somerfield",
+                "Sydenham",
+                "Barrington"
+            ],
+            "AdjacentSuburbIds": [
+                2338,
+                2189,
+                2235,
+                2178,
+                2179,
+                2180,
+                3253
+            ],
+            "DistrictId": 60,
+            "Agency": {
+                "Id": 3046,
+                "Name": "Ray White Full Circle (Full Circle Real Estate Ltd), (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-3234350",
+                "FaxNumber": "+64-3-3234351",
+                "Website": "http://www.raywhite.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1836988-7.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1836988-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Brendon Pierce",
+                        "MobilePhoneNumber": "(027) 9116186",
+                        "OfficePhoneNumber": "(03) 3234350",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6673423v1.jpg",
+                        "UrlSlug": "Brendon-Pierce"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2037660202,
+            "Title": "Great Potential",
+            "Category": "0350-5748-9120-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1556087305053)/",
+            "EndDate": "/Date(1561522144157)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Lifestyle-property",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128146.jpg",
+            "RegionId": 9,
+            "Region": "Northland",
+            "SuburbId": 1029,
+            "Suburb": "Broadwood",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -35.2760262,
+                "Longitude": 173.3380999,
+                "Northing": 6096294,
+                "Easting": 1630748,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "For sale by tender",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128207.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128162.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128183.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128221.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128239.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128278.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128300.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128261.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628058.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628083.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628072.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1027128129.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628097.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628115.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023634843.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023634855.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023634865.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628133.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1023628161.jpg"
+            ],
+            "HasEmbeddedVideo": true,
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/lifestyle-property/northland/far-north/broadwood/listing/2037660202",
+            "MemberId": 6593024,
+            "Address": "613 Awaroa Road,",
+            "District": "Far North",
+            "LandArea": 81000,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Bare land",
+            "AdjacentSuburbNames": [
+                "Broadwood"
+            ],
+            "AdjacentSuburbIds": [
+                1029
+            ],
+            "DistrictId": 1,
+            "Agency": {
+                "Id": 12650,
+                "Name": "First National Northland - Windy Realty, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-4081670",
+                "Website": "https://www.firstnationalnorthland.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6593024-2.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffffff",
+                    "TextColor": "#00467f",
+                    "StrokeColor": "#00467f",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6593024-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Andre McDonald",
+                        "MobilePhoneNumber": "(09) 4081671",
+                        "OfficePhoneNumber": "(021) 1606314"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2036060689,
+            "Title": "Unobstructed Million Dollar View!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555995695193)/",
+            "EndDate": "/Date(1561439719207)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058461.jpg",
+            "RegionId": 1,
+            "Region": "Auckland",
+            "SuburbId": 89,
+            "Suburb": "City Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1556924400000)/",
+                    "End": "/Date(1556926200000)/"
+                },
+                {
+                    "Start": "/Date(1557010800000)/",
+                    "End": "/Date(1557012600000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -36.8460712,
+                "Longitude": 174.7729583,
+                "Northing": 5920736,
+                "Easting": 1758075,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "To be auctioned",
+            "IsSuperFeatured": true,
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058482.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058498.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058516.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058536.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058552.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058571.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058586.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058601.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058615.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058630.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058642.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058656.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058669.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058681.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058700.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058718.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1025058734.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/auckland/auckland-city/city-centre/listing/2036060689",
+            "MemberId": 1247328,
+            "Address": "1503/30 Beach Road",
+            "District": "Auckland City",
+            "AgencyReference": "CTA33418",
+            "Bathrooms": 2,
+            "Bedrooms": 2,
+            "ListingGroup": "PROPERTY",
+            "Parking": "2 car spaces",
+            "PropertyType": "Apartment",
+            "AdjacentSuburbNames": [
+                "Parnell",
+                "Newton",
+                "Ponsonby",
+                "Freemans Bay",
+                "City Centre",
+                "Saint Marys Bay",
+                "Newmarket",
+                "Arch Hill",
+                "Eden Terrace",
+                "Grafton",
+                "Wynyard Quarter"
+            ],
+            "AdjacentSuburbIds": [
+                41,
+                82,
+                83,
+                88,
+                89,
+                91,
+                99,
+                3256,
+                135,
+                136,
+                3566
+            ],
+            "DistrictId": 7,
+            "Agency": {
+                "Id": 2010,
+                "Name": "Ray White City Apartments (City Realty Limited), (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-3085555",
+                "FaxNumber": "+64-9-3085556",
+                "Website": "http://www.rwcityapartments.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247328-8.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247328-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Victor Liu",
+                        "MobilePhoneNumber": "(021) 2223680",
+                        "OfficePhoneNumber": "(09) 3085509",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile760340v1.jpg",
+                        "UrlSlug": "Victor-Liu"
+                    },
+                    {
+                        "FullName": "Ron Yang",
+                        "MobilePhoneNumber": "(021) 885998",
+                        "OfficePhoneNumber": "(09) 9631915",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/277121.jpg"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2027414915,
+            "Title": "Character Villa Old Lady from Yesteryear",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555388977767)/",
+            "EndDate": "/Date(1560231637767)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654886.jpg",
+            "RegionId": 9,
+            "Region": "Northland",
+            "SuburbId": 1591,
+            "Suburb": "Kaitaia",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -35.1132893,
+                "Longitude": 173.2548938,
+                "Northing": 6114364,
+                "Easting": 1623227,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Deadline sale",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654896.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654909.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654917.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654923.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654929.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654932.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654939.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654944.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654953.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654964.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654973.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654982.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018654995.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018655004.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018655016.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1018655030.jpg"
+            ],
+            "HasEmbeddedVideo": true,
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/northland/far-north/kaitaia/listing/2027414915",
+            "MemberId": 231568,
+            "Address": "25 Lake Road",
+            "District": "Far North",
+            "AgencyReference": "KAA23148",
+            "LandArea": 1940,
+            "Bathrooms": 2,
+            "Bedrooms": 3,
+            "ListingGroup": "PROPERTY",
+            "Parking": "2 car spaces",
+            "PropertyType": "House",
+            "RateableValue": 147000,
+            "AdjacentSuburbNames": [
+                "Kaitaia"
+            ],
+            "AdjacentSuburbIds": [
+                1591
+            ],
+            "DistrictId": 1,
+            "Agency": {
+                "Id": 2035,
+                "Name": "Ray White Kaitaia (Far North Circle Real Estate Ltd), (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-4082900",
+                "FaxNumber": "+64-9-4082902",
+                "Website": "http://www.rwkaitaia.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/231568-7.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/231568-office_branding-1.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Edith Dunmore",
+                        "MobilePhoneNumber": "(027) 4871476",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile211109v3.jpg",
+                        "UrlSlug": "edith-Dunmore"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            },
+            "IsBoosted": true
+        },
+        {
+            "ListingId": 2029935799,
+            "Title": "Basic relocation PACKAGE * DOUBLE GLAZED, 1 PIECE SHIFT",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555551416237)/",
+            "EndDate": "/Date(1560389816237)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860326.jpg",
+            "RegionId": 14,
+            "Region": "Waikato",
+            "SuburbId": 805,
+            "Suburb": "Horotiu",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -37.7136596,
+                "Longitude": 175.1753207,
+                "Northing": 5823727,
+                "Easting": 1791739,
+                "Accuracy": 2
+            },
+            "PriceDisplay": "Asking price: $98,500",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860342.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860358.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860406.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860429.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860397.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860378.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860426.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860418.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860409.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860437.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019860438.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/waikato/waikato/horotiu/listing/2029935799",
+            "MemberId": 1791397,
+            "District": "Waikato",
+            "AgencyReference": "8029",
+            "Area": 86,
+            "Bathrooms": 1,
+            "Bedrooms": 3,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "House",
+            "RateableValue": 100000,
+            "PropertyId": "GGC328",
+            "AdjacentSuburbNames": [
+                "Horotiu"
+            ],
+            "AdjacentSuburbIds": [
+                805
+            ],
+            "DistrictId": 13,
+            "Agency": {
+                "Id": 4984,
+                "Name": "The Relocatable House Co.",
+                "PhoneNumber": "+64-7-5723771",
+                "Website": "http://www.relocatablehouses.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1791397-14.jpg",
+                "Branding": {
+                    "BackgroundColor": "",
+                    "TextColor": "",
+                    "StrokeColor": "",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1791397-office_branding-5.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1791397-1.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "The Relocatable House Company",
+                        "OfficePhoneNumber": "(07) 5723771"
+                    }
+                ],
+                "IsRealEstateAgency": true
+            }
+        },
+        {
+            "ListingId": 2028737508,
+            "Title": "Relaxing Easy City Life!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555470484713)/",
+            "EndDate": "/Date(1561073115267)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240464.jpg",
+            "RegionId": 1,
+            "Region": "Auckland",
+            "SuburbId": 89,
+            "Suburb": "City Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -36.8478196,
+                "Longitude": 174.7807136,
+                "Northing": 5920529,
+                "Easting": 1758763,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Asking price: $118,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240479.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240490.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240502.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240523.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240539.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240554.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240572.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240594.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240629.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240655.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240671.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240681.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240690.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240710.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240725.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240741.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240757.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240776.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1019240794.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/auckland/auckland-city/city-centre/listing/2028737508",
+            "MemberId": 2722052,
+            "Address": "10A/8 Quay Street",
+            "District": "Auckland City",
+            "AgencyReference": "TK34334",
+            "Bathrooms": 1,
+            "Bedrooms": 2,
+            "ListingGroup": "PROPERTY",
+            "Parking": "2 carports",
+            "PropertyType": "Apartment",
+            "AdjacentSuburbNames": [
+                "Parnell",
+                "Newton",
+                "Ponsonby",
+                "Freemans Bay",
+                "City Centre",
+                "Saint Marys Bay",
+                "Newmarket",
+                "Arch Hill",
+                "Eden Terrace",
+                "Grafton",
+                "Wynyard Quarter"
+            ],
+            "AdjacentSuburbIds": [
+                41,
+                82,
+                83,
+                88,
+                89,
+                91,
+                99,
+                3256,
+                135,
+                136,
+                3566
+            ],
+            "DistrictId": 7,
+            "Agency": {
+                "Id": 4652,
+                "Name": "Harcourts Cooper & Co - Takapuna, (Licensed: REAA 2008)",
+                "FaxNumber": "+64-9-4864750",
+                "Website": "https://www.cooperandco.co.nz/harcourts-takapuna-real-estate/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2722052-7.jpg",
+                "Branding": {
+                    "BackgroundColor": "#002049",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#002049",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2722052-office_branding-3.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Jim Gao",
+                        "MobilePhoneNumber": "(027) 3618868",
+                        "OfficePhoneNumber": "(09) 4869247",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6213855v1.jpg",
+                        "UrlSlug": "Jim-Gao"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2027249872,
+            "Title": "Pre-Mortgagee | Urgent Sale Required!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555380997653)/",
+            "EndDate": "/Date(1561583862177)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133668)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300088.jpg",
+            "RegionId": 3,
+            "Region": "Canterbury",
+            "SuburbId": 2511,
+            "Suburb": "Redwood",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1557018000000)/",
+                    "End": "/Date(1557019800000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -43.4688594,
+                "Longitude": 172.6250315,
+                "Northing": 5187049,
+                "Easting": 1569670,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Price by negotiation",
+            "IsSuperFeatured": true,
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300101.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300110.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300123.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300135.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300144.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300160.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300181.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300191.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300201.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300208.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300219.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300236.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300255.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300269.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1029300287.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/redwood/listing/2027249872",
+            "MemberId": 3751330,
+            "Address": "91 Lowry Avenue",
+            "District": "Christchurch City",
+            "AgencyReference": "MET28569",
+            "LandArea": 650,
+            "Bathrooms": 1,
+            "Bedrooms": 3,
+            "ListingGroup": "PROPERTY",
+            "Parking": "2 car spaces",
+            "PropertyType": "House",
+            "AdjacentSuburbNames": [
+                "Marshland",
+                "Casebrook",
+                "Redwood",
+                "Northcote"
+            ],
+            "AdjacentSuburbIds": [
+                2042,
+                2508,
+                2511,
+                3371
+            ],
+            "DistrictId": 60,
+            "Agency": {
+                "Id": 6511,
+                "Name": "Ray White Metro Ltd - A J McPherson and Associates Ltd, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-3430219",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-6.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffe512",
+                    "TextColor": "#818062",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Sonya Pascoe",
+                        "MobilePhoneNumber": "(027) 8983133",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5630839v3.jpg",
+                        "UrlSlug": "Sonya-Pascoe"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2025765329,
+            "Title": "Super Sized Apartment in the Heart of the City",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555290613030)/",
+            "EndDate": "/Date(1561512904823)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672275.jpg",
+            "RegionId": 1,
+            "Region": "Auckland",
+            "SuburbId": 89,
+            "Suburb": "City Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -36.8566375,
+                "Longitude": 174.7628521,
+                "Northing": 5919581,
+                "Easting": 1757153,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Price by negotiation",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672280.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672290.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672299.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672304.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672312.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672319.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017672327.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1017690210.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/auckland/auckland-city/city-centre/listing/2025765329",
+            "MemberId": 2074917,
+            "Address": "2B/11B City Road",
+            "District": "Auckland City",
+            "AgencyReference": "CRE13231",
+            "Area": 59,
+            "Bathrooms": 1,
+            "Bedrooms": 1,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Apartment",
+            "AdjacentSuburbNames": [
+                "Parnell",
+                "Newton",
+                "Ponsonby",
+                "Freemans Bay",
+                "City Centre",
+                "Saint Marys Bay",
+                "Newmarket",
+                "Arch Hill",
+                "Eden Terrace",
+                "Grafton",
+                "Wynyard Quarter"
+            ],
+            "AdjacentSuburbIds": [
+                41,
+                82,
+                83,
+                88,
+                89,
+                91,
+                99,
+                3256,
+                135,
+                136,
+                3566
+            ],
+            "DistrictId": 7,
+            "Agency": {
+                "Id": 3298,
+                "Name": "Crockers Realty Ltd, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-6308890",
+                "FaxNumber": "+64-9-6308898",
+                "Website": "http://www.crockers.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2074917-6.jpg",
+                "Branding": {
+                    "BackgroundColor": "",
+                    "TextColor": "",
+                    "StrokeColor": "",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2074917-office_branding-4.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2074917-1.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "Edison Li",
+                        "MobilePhoneNumber": "(027) 5208888",
+                        "OfficePhoneNumber": "(09) 9848045",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6853049v1.jpg",
+                        "UrlSlug": "Edison-Li"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2022473414,
+            "Title": "WAY More Than Meets The Eye!",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1555038377220)/",
+            "EndDate": "/Date(1561332190027)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697031.jpg",
+            "RegionId": 3,
+            "Region": "Canterbury",
+            "SuburbId": 2515,
+            "Suburb": "Rangiora",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -43.2693685,
+                "Longitude": 172.553702,
+                "Northing": 5209175,
+                "Easting": 1563782,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Asking price: $99,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697046.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697059.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697072.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697085.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697094.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697107.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697118.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697125.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697139.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697158.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697177.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697188.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1015697199.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/canterbury/waimakariri/rangiora/listing/2022473414",
+            "MemberId": 3556815,
+            "Address": "69/433 Dixons Road",
+            "District": "Waimakariri",
+            "AgencyReference": "KI8247",
+            "Bathrooms": 1,
+            "Bedrooms": 1,
+            "ListingGroup": "PROPERTY",
+            "Parking": "1 carports",
+            "PropertyType": "Unit",
+            "AdjacentSuburbNames": [
+                "Southbrook",
+                "Rangiora"
+            ],
+            "AdjacentSuburbIds": [
+                2541,
+                2515
+            ],
+            "DistrictId": 59,
+            "Agency": {
+                "Id": 6165,
+                "Name": "Harcourts Four Seasons Realty 2017 Ltd - Kaiapoi, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-3275379",
+                "Website": "http://www.fourseasons.harcourts.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556815-5.jpg",
+                "Branding": {
+                    "BackgroundColor": "#002049",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#002049",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556815-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Christina Summerhayes",
+                        "MobilePhoneNumber": "(027) 2490880",
+                        "OfficePhoneNumber": "(03) 3275379",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile482565v2.jpg",
+                        "UrlSlug": "Christina-Summerhayes"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2020071419,
+            "Title": "HUNTLY - LIVE THE DREAM IN PUKEMIRO",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1554876075733)/",
+            "EndDate": "/Date(1560835222080)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1022840813.jpg",
+            "RegionId": 14,
+            "Region": "Waikato",
+            "SuburbId": 1088,
+            "Suburb": "Ngaruawahia",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -37.666298,
+                "Longitude": 175.1529462,
+                "Northing": 5829028,
+                "Easting": 1789888,
+                "Accuracy": 2
+            },
+            "PriceDisplay": "Asking price: $99,000",
+            "PhotoUrls": [],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/waikato/waikato/ngaruawahia/listing/2020071419",
+            "MemberId": 6864755,
+            "Address": "14 Joseph Street",
+            "District": "Waikato",
+            "AgencyReference": "L20646012",
+            "LandArea": 1095,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "AdjacentSuburbNames": [
+                "Ngaruawahia"
+            ],
+            "AdjacentSuburbIds": [
+                1088
+            ],
+            "DistrictId": 13,
+            "Agency": {
+                "Id": 13546,
+                "Name": "Renexus",
+                "PhoneNumber": "+64-1-971191",
+                "Website": "http://renexus.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6864755-1.jpg",
+                "Branding": {
+                    "BackgroundColor": "#2c2f41",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#2c2f41",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6864755-office_branding-1.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6864755-1.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "Sumit Pandat",
+                        "MobilePhoneNumber": "(027) 6576666",
+                        "OfficePhoneNumber": "(027) 6576666",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/289333.jpg"
+                    },
+                    {
+                        "FullName": "Sam Singh",
+                        "MobilePhoneNumber": "(021) 971191",
+                        "OfficePhoneNumber": "(09) 2186544",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/280704.jpg"
+                    }
+                ],
+                "IsRealEstateAgency": true
+            }
+        },
+        {
+            "ListingId": 2009489543,
+            "Title": "Cheapest In Town",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1554164377933)/",
+            "EndDate": "/Date(1560829272923)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1008172065.jpg",
+            "RegionId": 8,
+            "Region": "Nelson / Tasman",
+            "SuburbId": 2089,
+            "Suburb": "Motueka",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -41.1101519,
+                "Longitude": 173.0013009,
+                "Northing": 5449015,
+                "Easting": 1600109,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Deadline sale",
+            "PhotoUrls": [],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/nelson-tasman/tasman/motueka/listing/2009489543",
+            "MemberId": 3608870,
+            "Address": "86 Pah Street",
+            "District": "Tasman",
+            "AgencyReference": "MT3657",
+            "LandArea": 832,
+            "Bathrooms": 1,
+            "Bedrooms": 2,
+            "ListingGroup": "PROPERTY",
+            "Parking": "1 car garaging, 2 off street",
+            "PropertyType": "House",
+            "AdjacentSuburbNames": [
+                "Motueka"
+            ],
+            "AdjacentSuburbIds": [
+                2089
+            ],
+            "DistrictId": 51,
+            "Agency": {
+                "Id": 7074,
+                "Name": "Property Sales (Nelson) and Real Estate Ltd, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-5289551",
+                "Website": "http://www.harcourts.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3608870-4.jpg",
+                "Branding": {
+                    "BackgroundColor": "#002049",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#002049",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3608870-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Ross Lockhart",
+                        "MobilePhoneNumber": "(027) 5284366",
+                        "OfficePhoneNumber": "(03) 5289551",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5969417v2.jpg",
+                        "UrlSlug": "Ross-Lockhart"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 2004941141,
+            "Title": "Owner Prepared To Meet The Market!",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1553831818850)/",
+            "EndDate": "/Date(1561348914757)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429152.jpg",
+            "RegionId": 3,
+            "Region": "Canterbury",
+            "SuburbId": 1543,
+            "Suburb": "Hanmer Springs",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -42.5177562,
+                "Longitude": 172.8167354,
+                "Northing": 5292719,
+                "Easting": 1584946,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Price by negotiation",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429162.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429179.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429190.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429209.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429223.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429243.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429252.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/1005429263.jpg"
+            ],
+            "HasEmbeddedVideo": true,
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/canterbury/hurunui/hanmer-springs/listing/2004941141",
+            "MemberId": 3552010,
+            "Address": "157 Jacks Pass Road",
+            "District": "Hurunui",
+            "AgencyReference": "HR5121",
+            "LandArea": 5342,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "AdjacentSuburbNames": [
+                "Hanmer Springs",
+                "Lyford"
+            ],
+            "AdjacentSuburbIds": [
+                1543,
+                3516
+            ],
+            "DistrictId": 58,
+            "Agency": {
+                "Id": 6117,
+                "Name": "Harcourts Hornby, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-3-3499919",
+                "Website": "http://www.fourseasons.harcourts.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3552010-3.jpg",
+                "Branding": {
+                    "BackgroundColor": "#002049",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#002049",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3552010-office_branding-2.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3552010-2.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "Andrew Sare",
+                        "MobilePhoneNumber": "(021) 714287",
+                        "OfficePhoneNumber": "(03) 3499919"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 1993340012,
+            "Title": "Niblett Near CBD",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1553050212273)/",
+            "EndDate": "/Date(1561518546297)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/998735373.jpg",
+            "RegionId": 6,
+            "Region": "Manawatu / Wanganui",
+            "SuburbId": 1672,
+            "Suburb": "City Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [
+                {
+                    "Start": "/Date(1557014400000)/",
+                    "End": "/Date(1557016200000)/"
+                }
+            ],
+            "GeographicLocation": {
+                "Latitude": -39.923389,
+                "Longitude": 175.0503019,
+                "Northing": 5578733,
+                "Easting": 1775215,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Enquiries over $120,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998735394.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998735422.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998735447.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998735462.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998735476.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998735493.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/manawatu-wanganui/wanganui/city-centre/listing/1993340012",
+            "MemberId": 2267987,
+            "Address": "11/6 Niblett Street",
+            "District": "Wanganui",
+            "AgencyReference": "WGU3927",
+            "Area": 40,
+            "Bathrooms": 1,
+            "Bedrooms": 1,
+            "ListingGroup": "PROPERTY",
+            "Parking": "1 off street",
+            "PropertyType": "Unit",
+            "AdjacentSuburbNames": [
+                "Saint Johns Hill",
+                "Bastia Hill",
+                "Durie Hill",
+                "Putiki",
+                "City Centre",
+                "College Estate",
+                "Springvale"
+            ],
+            "AdjacentSuburbIds": [
+                1741,
+                1665,
+                1666,
+                1667,
+                1672,
+                3177,
+                2077
+            ],
+            "DistrictId": 37,
+            "Agency": {
+                "Id": 3653,
+                "Name": "Harcourts Whanganui, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-6-3490883",
+                "FaxNumber": "+64-6-3490884",
+                "Website": "http://www.harcourts.co.nz",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2267987-5.jpg",
+                "Branding": {
+                    "BackgroundColor": "#001f48",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#ffffff",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2267987-office_branding-3.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Scott Worsfold",
+                        "MobilePhoneNumber": "(027) 4497021",
+                        "OfficePhoneNumber": "(06) 3490883",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6878442v1.jpg",
+                        "UrlSlug": "Scott-Worsfold"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 1992256196,
+            "Title": "Canterbury Terrace Downs section",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1552970768393)/",
+            "EndDate": "/Date(1557812768393)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/998008127.jpg",
+            "RegionId": 3,
+            "Region": "Canterbury",
+            "SuburbId": 2359,
+            "Suburb": "Windwhistle",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -43.514448,
+                "Longitude": 171.713905,
+                "Northing": 5181251,
+                "Easting": 1496051,
+                "Accuracy": 2
+            },
+            "PriceDisplay": "Price by negotiation",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/998809222.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/canterbury/selwyn/windwhistle/listing/1992256196",
+            "MemberId": 848265,
+            "Address": "Lot 12 The Rowans",
+            "District": "Selwyn",
+            "AgencyReference": "Private Sale",
+            "Amenities": "Windwhistle School 5kms.",
+            "LandArea": 4025,
+            "BestContactTime": "Any time",
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "RateableValue": 170000,
+            "ViewingInstructions": "anytime",
+            "PropertyId": "GEY775",
+            "AdjacentSuburbNames": [
+                "Windwhistle"
+            ],
+            "AdjacentSuburbIds": [
+                2359
+            ],
+            "DistrictId": 62,
+            "Agency": null
+        },
+        {
+            "ListingId": 1990548050,
+            "Title": "Mortgagee EX FORESTRY BLOCK",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1552859772050)/",
+            "EndDate": "/Date(1561422124830)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/996812694.jpg",
+            "RegionId": 9,
+            "Region": "Northland",
+            "SuburbId": 1029,
+            "Suburb": "Broadwood",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -35.261474,
+                "Longitude": 173.3946294,
+                "Northing": 6097888,
+                "Easting": 1635896,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Asking price: $35,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812667.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812680.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812714.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812721.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812733.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812743.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812758.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812776.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812786.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/996812800.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/northland/far-north/broadwood/listing/1990548050",
+            "MemberId": 6593024,
+            "Address": "00n Runaruna Road",
+            "District": "Far North",
+            "AgencyReference": "FNN10174",
+            "LandArea": 128900,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "AdjacentSuburbNames": [
+                "Broadwood"
+            ],
+            "AdjacentSuburbIds": [
+                1029
+            ],
+            "DistrictId": 1,
+            "Agency": {
+                "Id": 12650,
+                "Name": "First National Northland - Windy Realty, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-4081670",
+                "Website": "https://www.firstnationalnorthland.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6593024-2.jpg",
+                "Branding": {
+                    "BackgroundColor": "#ffffff",
+                    "TextColor": "#00467f",
+                    "StrokeColor": "#00467f",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6593024-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Andre McDonald",
+                        "MobilePhoneNumber": "(09) 4081671",
+                        "OfficePhoneNumber": "(021) 1606314"
+                    },
+                    {
+                        "FullName": "Hazely Windelborn",
+                        "MobilePhoneNumber": "(09) 4081670",
+                        "OfficePhoneNumber": "(021) 955716",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5061406v2.jpg",
+                        "UrlSlug": "Hazely-Windelborn"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 1987833063,
+            "Title": "Plentiful Passive Income",
+            "Category": "0350-5748-3399-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1552644398130)/",
+            "EndDate": "/Date(1557486398130)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133684)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/995297291.jpg",
+            "RegionId": 1,
+            "Region": "Auckland",
+            "SuburbId": 89,
+            "Suburb": "City Centre",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -36.845526,
+                "Longitude": 174.7739471,
+                "Northing": 5920795,
+                "Easting": 1758165,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Asking price: $169,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297325.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297348.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297364.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297386.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297416.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297450.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297490.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297512.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297544.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297570.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297601.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297640.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/995297668.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sale/auckland/auckland-city/city-centre/listing/1987833063",
+            "MemberId": 4548234,
+            "Address": "2 Dockside Lane",
+            "District": "Auckland City",
+            "Amenities": "Britomart, Waterfront, Queen St, Cafes, Restaurants, Retail Outlets, Public Transport and more",
+            "Area": 37,
+            "Bathrooms": 1,
+            "Bedrooms": 1,
+            "ListingGroup": "PROPERTY",
+            "Parking": "1",
+            "PropertyType": "Apartment",
+            "PropertyId": "GEV986",
+            "AdjacentSuburbNames": [
+                "Parnell",
+                "Newton",
+                "Ponsonby",
+                "Freemans Bay",
+                "City Centre",
+                "Saint Marys Bay",
+                "Newmarket",
+                "Arch Hill",
+                "Eden Terrace",
+                "Grafton",
+                "Wynyard Quarter"
+            ],
+            "AdjacentSuburbIds": [
+                41,
+                82,
+                83,
+                88,
+                89,
+                91,
+                99,
+                3256,
+                135,
+                136,
+                3566
+            ],
+            "DistrictId": 7,
+            "Agency": {
+                "Id": 7739,
+                "Name": "Apartment Specialists Group Ltd, (Licensed: REAA 2008)",
+                "Website": "http://www.apartmentspecialists.co.nz/",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4548234-8.jpg",
+                "Branding": {
+                    "BackgroundColor": "#9f1219",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#9f1219",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4548234-office_branding-3.jpg"
+                },
+                "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4548234-1.logo2.jpg",
+                "Agents": [
+                    {
+                        "FullName": "John McCormick - John McCormick",
+                        "MobilePhoneNumber": "(021) 966460",
+                        "OfficePhoneNumber": "(021) 966460"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        },
+        {
+            "ListingId": 1981783238,
+            "Title": "Rear Section",
+            "Category": "0350-5748-3400-",
+            "StartPrice": 0,
+            "StartDate": "/Date(1552265121523)/",
+            "EndDate": "/Date(1557115011107)/",
+            "ListingLength": null,
+            "IsFeatured": true,
+            "HasGallery": true,
+            "IsBold": true,
+            "IsHighlighted": true,
+            "AsAt": "/Date(1556763133699)/",
+            "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+            "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/991811793.jpg",
+            "RegionId": 9,
+            "Region": "Northland",
+            "SuburbId": 1862,
+            "Suburb": "Dargaville",
+            "NoteDate": "/Date(0)/",
+            "ReserveState": 3,
+            "IsClassified": true,
+            "OpenHomes": [],
+            "GeographicLocation": {
+                "Latitude": -35.9558452,
+                "Longitude": 173.8661416,
+                "Northing": 6020602,
+                "Easting": 1678108,
+                "Accuracy": 1
+            },
+            "PriceDisplay": "Asking price: $115,000",
+            "PhotoUrls": [
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/991811811.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/991811827.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/991811839.jpg",
+                "https://trademe.tmcdn.co.nz/photoserver/thumb/991811851.jpg"
+            ],
+            "AdditionalData": {
+                "BulletPoints": [],
+                "Tags": []
+            },
+            "CanonicalPath": "/property/residential/sections-for-sale/northland/kaipara/dargaville/listing/1981783238",
+            "MemberId": 5945449,
+            "Address": "129a River Road",
+            "District": "Kaipara",
+            "AgencyReference": "1020296",
+            "LandArea": 1068,
+            "ListingGroup": "PROPERTY",
+            "Parking": "",
+            "PropertyType": "Section",
+            "AdjacentSuburbNames": [
+                "Dargaville"
+            ],
+            "AdjacentSuburbIds": [
+                1862
+            ],
+            "DistrictId": 3,
+            "Agency": {
+                "Id": 10783,
+                "Name": "Bayleys Dargaville, (Licensed: REAA 2008)",
+                "PhoneNumber": "+64-9-4394297",
+                "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5945449-2.jpg",
+                "Branding": {
+                    "BackgroundColor": "#00214a",
+                    "TextColor": "#ffffff",
+                    "StrokeColor": "#042249",
+                    "OfficeLocation": "",
+                    "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5945449-office_branding-2.jpg"
+                },
+                "Agents": [
+                    {
+                        "FullName": "Leah O'Driscoll",
+                        "MobilePhoneNumber": "(027) 2568988",
+                        "OfficePhoneNumber": "(09) 4394297",
+                        "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6197408v1.jpg",
+                        "UrlSlug": "Leah-ODriscoll"
+                    }
+                ],
+                "IsRealEstateAgency": true,
+                "IsLicensedPropertyAgency": true
+            }
+        }
+    ],
+    "FoundCategories": [],
+    "Parameters": [
+        {
+            "DisplayName": "Region",
+            "Name": "region",
+            "Type": 3,
+            "ExternalOptionsKey": "geospatial_region"
+        },
+        {
+            "DisplayName": "District",
+            "Name": "district",
+            "Type": 4,
+            "DependentOn": "region",
+            "ExternalOptionsKey": "geospatial_district"
+        },
+        {
+            "DisplayName": "Suburb",
+            "Name": "suburb",
+            "Type": 5,
+            "AllowsMultipleValues": true,
+            "DependentOn": "district",
+            "ExternalOptionsKey": "geospatial_suburb"
+        },
+        {
+            "DisplayName": "Search nearby suburbs",
+            "Name": "adjacent_suburbs",
+            "Type": 0,
+            "DependentOn": "suburb"
+        },
+        {
+            "DisplayName": "Price",
+            "Name": "price",
+            "LowerBoundName": "price_min",
+            "UpperBoundName": "price_max",
+            "Type": 1,
+            "Options": [
+                {
+                    "Value": "100000",
+                    "Display": "$100k"
+                },
+                {
+                    "Value": "150000",
+                    "Display": "$150k"
+                },
+                {
+                    "Value": "200000",
+                    "Display": "$200k"
+                },
+                {
+                    "Value": "250000",
+                    "Display": "$250k"
+                },
+                {
+                    "Value": "300000",
+                    "Display": "$300k"
+                },
+                {
+                    "Value": "350000",
+                    "Display": "$350k"
+                },
+                {
+                    "Value": "400000",
+                    "Display": "$400k"
+                },
+                {
+                    "Value": "450000",
+                    "Display": "$450k"
+                },
+                {
+                    "Value": "500000",
+                    "Display": "$500k"
+                },
+                {
+                    "Value": "550000",
+                    "Display": "$550k"
+                },
+                {
+                    "Value": "600000",
+                    "Display": "$600k"
+                },
+                {
+                    "Value": "650000",
+                    "Display": "$650k"
+                },
+                {
+                    "Value": "700000",
+                    "Display": "$700k"
+                },
+                {
+                    "Value": "750000",
+                    "Display": "$750k"
+                },
+                {
+                    "Value": "800000",
+                    "Display": "$800k"
+                },
+                {
+                    "Value": "850000",
+                    "Display": "$850k"
+                },
+                {
+                    "Value": "900000",
+                    "Display": "$900k"
+                },
+                {
+                    "Value": "950000",
+                    "Display": "$950k"
+                },
+                {
+                    "Value": "1000000",
+                    "Display": "$1M"
+                },
+                {
+                    "Value": "1100000",
+                    "Display": "$1.1M"
+                },
+                {
+                    "Value": "1200000",
+                    "Display": "$1.2M"
+                },
+                {
+                    "Value": "1300000",
+                    "Display": "$1.3M"
+                },
+                {
+                    "Value": "1400000",
+                    "Display": "$1.4M"
+                },
+                {
+                    "Value": "1500000",
+                    "Display": "$1.5M"
+                },
+                {
+                    "Value": "1600000",
+                    "Display": "$1.6M"
+                },
+                {
+                    "Value": "1700000",
+                    "Display": "$1.7M"
+                },
+                {
+                    "Value": "1800000",
+                    "Display": "$1.8M"
+                },
+                {
+                    "Value": "1900000",
+                    "Display": "$1.9M"
+                },
+                {
+                    "Value": "2000000",
+                    "Display": "$2M"
+                },
+                {
+                    "Value": "2250000",
+                    "Display": "$2.25M"
+                },
+                {
+                    "Value": "2500000",
+                    "Display": "$2.5M"
+                },
+                {
+                    "Value": "2750000",
+                    "Display": "$2.75M"
+                },
+                {
+                    "Value": "3000000",
+                    "Display": "$3M"
+                },
+                {
+                    "Value": "3500000",
+                    "Display": "$3.5M"
+                },
+                {
+                    "Value": "4000000",
+                    "Display": "$4M"
+                },
+                {
+                    "Value": "5000000",
+                    "Display": "$5M"
+                },
+                {
+                    "Value": "6000000",
+                    "Display": "$6M"
+                },
+                {
+                    "Value": "7000000",
+                    "Display": "$7M"
+                },
+                {
+                    "Value": "8000000",
+                    "Display": "$8M"
+                },
+                {
+                    "Value": "9000000",
+                    "Display": "$9M"
+                },
+                {
+                    "Value": "10000000",
+                    "Display": "$10M"
+                }
+            ]
+        },
+        {
+            "DisplayName": "Bedrooms",
+            "Name": "bedrooms",
+            "LowerBoundName": "bedrooms_min",
+            "UpperBoundName": "bedrooms_max",
+            "Type": 1,
+            "Options": [
+                {
+                    "Value": "1",
+                    "Display": "1"
+                },
+                {
+                    "Value": "2",
+                    "Display": "2"
+                },
+                {
+                    "Value": "3",
+                    "Display": "3"
+                },
+                {
+                    "Value": "4",
+                    "Display": "4"
+                },
+                {
+                    "Value": "5",
+                    "Display": "5"
+                },
+                {
+                    "Value": "6",
+                    "Display": "6"
+                }
+            ]
+        },
+        {
+            "DisplayName": "Bathrooms",
+            "Name": "bathrooms",
+            "LowerBoundName": "bathrooms_min",
+            "UpperBoundName": "bathrooms_max",
+            "Type": 1,
+            "Options": [
+                {
+                    "Value": "1",
+                    "Display": "1"
+                },
+                {
+                    "Value": "2",
+                    "Display": "2"
+                },
+                {
+                    "Value": "3",
+                    "Display": "3"
+                },
+                {
+                    "Value": "4",
+                    "Display": "4"
+                },
+                {
+                    "Value": "5",
+                    "Display": "5"
+                },
+                {
+                    "Value": "6",
+                    "Display": "6"
+                }
+            ]
+        },
+        {
+            "DisplayName": "Property type",
+            "Name": "property_type",
+            "Type": 2,
+            "AllowsMultipleValues": true,
+            "Options": [
+                {
+                    "Value": "Apartment",
+                    "Display": "Apartment"
+                },
+                {
+                    "Value": "House",
+                    "Display": "House"
+                },
+                {
+                    "Value": "BareLand",
+                    "Display": "Lifestyle bare land"
+                },
+                {
+                    "Value": "Dwelling",
+                    "Display": "Lifestyle dwelling"
+                },
+                {
+                    "Value": "Section",
+                    "Display": "Section"
+                },
+                {
+                    "Value": "Townhouse",
+                    "Display": "Townhouse"
+                },
+                {
+                    "Value": "Unit",
+                    "Display": "Unit"
+                }
+            ]
+        },
+        {
+            "DisplayName": "Lifestyle land area",
+            "Name": "land_area",
+            "LowerBoundName": "land_area_min",
+            "UpperBoundName": "land_area_max",
+            "Type": 1,
+            "DependentOn": "property_type",
+            "Options": [
+                {
+                    "Value": "0.025",
+                    "Display": "250 m²"
+                },
+                {
+                    "Value": "0.05",
+                    "Display": "500 m²"
+                },
+                {
+                    "Value": "0.075",
+                    "Display": "750 m²"
+                },
+                {
+                    "Value": "0.1",
+                    "Display": "1000 m²"
+                },
+                {
+                    "Value": "1",
+                    "Display": "1 ha"
+                },
+                {
+                    "Value": "3",
+                    "Display": "3 ha"
+                },
+                {
+                    "Value": "5",
+                    "Display": "5 ha"
+                },
+                {
+                    "Value": "8",
+                    "Display": "8 ha"
+                },
+                {
+                    "Value": "15",
+                    "Display": "15 ha"
+                },
+                {
+                    "Value": "25",
+                    "Display": "25 ha"
+                },
+                {
+                    "Value": "100",
+                    "Display": "100 ha"
+                },
+                {
+                    "Value": "250",
+                    "Display": "250 ha"
+                }
+            ],
+            "DependentOnValues": [
+                "BareLand",
+                "Dwelling"
+            ]
+        },
+        {
+            "DisplayName": "Open homes only",
+            "Name": "open_homes",
+            "Type": 0
+        }
+    ],
+    "SortOrders": [
+        {
+            "Value": "Default",
+            "Display": "Featured first"
+        },
+        {
+            "Value": "PriceAsc",
+            "Display": "Lowest price"
+        },
+        {
+            "Value": "PriceDesc",
+            "Display": "Highest price"
+        },
+        {
+            "Value": "ExpiryDesc",
+            "Display": "Latest listings"
+        }
+    ],
+    "CanonicalPath": "/property/residential/sale",
+    "Breadcrumbs": [
+        {
+            "DisplayName": "Property",
+            "CanonicalPath": "/property",
+            "CanonicalPathFragment": "property",
+            "Name": "category",
+            "Value": "350"
+        },
+        {
+            "DisplayName": "Residential",
+            "CanonicalPath": "/property/residential",
+            "CanonicalPathFragment": "residential",
+            "Name": "category",
+            "Value": "5748"
+        },
+        {
+            "DisplayName": "Sale",
+            "CanonicalPath": "/property/residential/sale",
+            "CanonicalPathFragment": "sale",
+            "Name": "category",
+            "Value": "3399"
+        }
+    ],
+    "SearchQueryId": "170f07bcbd0c4c6a9c5a36cd3b8e2362-002"
+}

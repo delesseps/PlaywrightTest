@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e44996f-06a6-4282-a4eb-43745c5d86d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/page-objects/Home/APHomePage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-objects/Products Page/ProductsPage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-objects/Search Page/SearchPage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Parts Trader/TechAssementTest.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folio.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/folio.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tb6jIrv4L7z0BcfkYZdyiYMo3p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/page-objects/Products Page" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Parts Trader" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/page-objects/Products Page" />
+      <recent name="$PROJECT_DIR$/page-objects/Search Page" />
+      <recent name="$PROJECT_DIR$/page-objects/Home" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e44996f-06a6-4282-a4eb-43745c5d86d2" name="Default Changelist" comment="" />
+      <created>1623025575477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623025575477</updated>
+      <workItem from="1623025577487" duration="15978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="600" height="428" key="javadoc.popup" timestamp="1623035021025">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.25.1792.1010@0.25.1792.1010" timestamp="1623035021025" />
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1623040341197">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup/0.25.1792.1010@0.25.1792.1010" timestamp="1623040341197" />
+  </component>
+</project>

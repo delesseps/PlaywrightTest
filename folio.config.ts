@@ -3,9 +3,9 @@ import { reporters, setReporters } from "@playwright/test";
 import { devices } from "playwright";
 
 setConfig({
-  testDir: "tests",  // Search for tests in this directory.
+  testDir: "tests/Parts Trader",  // Search for tests in this directory.
     timeout: 90000,  // Each test is given 90 seconds.
-    retries: 1,  // Failing tests will be retried at most two times.
+    retries: 0,  // Failing tests will be retried at most two times.
     workers: 6
 });
 
@@ -17,7 +17,7 @@ setReporters([
 ]);
 
 const options = {
-   headless: true,
+   headless: false,
    slowMo: 50,
    // Context options:
    viewport: { width: 1280, height: 1024 },
@@ -25,19 +25,19 @@ const options = {
    // Testing options:
    screenshot: 'on',
    video: 'retry-on-failure',
-   baseHref: 'https://www.stage.trademe.co.nz'
+   baseHref: 'http://automationpractice.com/'
 };
 
-const mobileoptions = {
-  headless: false,
-  slowMo: 50,
-  // Context options:
-  ...devices["iPhone 11"],
-  ignoreHTTPSErrors: true,
-  // Testing options:
-  screenshot: 'on',
-  video: 'retry-on-failure',
-};
+// const mobileoptions = {
+//   headless: false,
+//   slowMo: 50,
+//   // Context options:
+//   ...devices["iPhone 11"],
+//   ignoreHTTPSErrors: true,
+//   // Testing options:
+//   screenshot: 'on',
+//   video: 'retry-on-failure',
+// };
 
 // Run tests in three browsers.
 test.runWith(new ChromiumEnv(options), { tag: 'chromium' });

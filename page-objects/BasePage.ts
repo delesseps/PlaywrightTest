@@ -1,7 +1,4 @@
-// page-objects/basePage.ts
-
 export default class BasePage {
-    //private __page: any;
     protected page: any;
     
     constructor(_page) {
@@ -16,4 +13,3 @@ export default class BasePage {
         await this.page.click(this.APSearchButton);
     }
 }
-//module.exports = { basePage };

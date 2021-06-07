@@ -25,12 +25,7 @@ test.describe("Parts Trader E2E:", () => {
         checkoutPage = new CheckoutPage(page);
         await page.goto('http://automationpractice.com/index.php');
     });
-
-    test.afterEach(async ({ page }) => {
-        await page.close();
-    });
-    
-    
+        
     test("Add to Cart Test", async ({page}) => {
         await searchPage.productSearch('Printed Summer Dress');        
         await searchPage.selectLowestPricedItem();

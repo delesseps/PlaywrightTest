@@ -16,14 +16,14 @@ export class SearchPage extends BasePage{
     }
 
     async selectLowestPricedItem(){
-        var amount,minAmount,xIndex;
+        var minAmount,xIndex;
         await this.page.waitForSelector(this.ItemPrice);
         const all = await this.page.$$(this.ItemPrice);
         
-        amount = await this.page.innerText(':nth-match('+ this.ItemPrice + ',1)');
+        minAmount = await this.page.innerText(':nth-match('+ this.ItemPrice + ',1)');
         for (var i = 1; i <= all.length; i++) {
             var currentAmount = await this.page.innerText(':nth-match('+ this.ItemPrice + ',' + i + ')');
-            if (currentAmount <= amount){
+            if (currentAmount <= minAmount){
                 minAmount = currentAmount;
                 xIndex = i;
             }

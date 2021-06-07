@@ -8,22 +8,28 @@ export class SearchPage extends BasePage{
     }
 
     SortByDropdown = '#selectProductSort';
-    // SearchItemProduct = ':nth-match(.product_list.grid.row img)';
     SearchItemProduct = 'a.product_img_link';
+    ItemPrice = 'span.price.product-price:visible';
 
     async sortBy(text: string){
-        await this.page.click(this.SortByDropdown)
         await this.page.selectOption(this.SortByDropdown, text)
-        await this.page.keyboard.press('Enter');
-        await this.page.waitForNavigation();
     }
 
     async selectLowestPricedItem(){
-        await this.page.waitForSelector('span.price.product-price:visible')
-        const all = await this.page.$$('span.price.product-price:visible');
-        console.log(all.length);
-        // await this.page.waitForSelector(this.SearchItemProduct)
-        // await this.page.click(':nth-match('+ this.SearchItemProduct + ',' + itemNo +')');
+        var amount,minAmount,xIndex;
+        await this.page.waitForSelector(this.ItemPrice);
+        const all = await this.page.$$(this.ItemPrice);
+        
+        amount = await this.page.innerText(':nth-match('+ this.ItemPrice + ',1)');
+        for (var i = 1; i <= all.length; i++) {
+            var currentAmount = await this.page.innerText(':nth-match('+ this.ItemPrice + ',' + i + ')');
+            if (currentAmount <= amount){
+                minAmount = currentAmount;
+                xIndex = i;
+            }
+          }
+          await this.page.click(':nth-match('+ this.SearchItemProduct + ',' + xIndex +')');
+
     }
 
 

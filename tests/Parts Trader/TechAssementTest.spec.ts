@@ -1,6 +1,7 @@
 import { test, expect  } from "@playwright/test";
-import { APHomePage} from "../../page-objects/Home/APHomePage";
-import {SearchPage} from "../../page-objects/Search Page/SearchPage";
+import { APHomePage } from "../../page-objects/Home/APHomePage";
+import { SearchPage } from "../../page-objects/Search Page/SearchPage";
+import { ProductsPage } from "../../page-objects/Products Page/ProductsPage";
 
 
 test.describe("Parts Trader E2E:", () => {
@@ -16,18 +17,26 @@ test.describe("Parts Trader E2E:", () => {
 // Assert that the price equals $34.80
 //     Take a screenshot of the cart and attach it along with your code
 
-    let apHomePage,searchPage: any;
+    let apHomePage,searchPage,productsPage: any;
 
     test.beforeEach(async ({ page, context }) => {
         apHomePage = new APHomePage(page);
         searchPage = new SearchPage(page);
+        productsPage = new ProductsPage(page);
         await apHomePage.navigate('http://automationpractice.com/index.php');
     });
     
     test("Add to Cart Test", async ({ page, browserName, context }) => {
-        await apHomePage.productSearch('Printed Summer Dress');
-        await searchPage.sortBy('price:asc');
-        await searchPage.selectLowestPricedItem;
+        await apHomePage.productSearch('Printed Summer Dress');        
+        await searchPage.selectLowestPricedItem();
+        await productsPage.updateQuantity('2');
+        await productsPage.updateSize('M');
+        await productsPage.updateColorToGreen();
+        await productsPage.clickAddToCartButton();
+        await productsPage.clickProceedToCheckoutButton();
+        expect(await productsPage.checkTotalPrice()).toEqual("$34.80");
+        await page.screenshot({ path: 'screenshot.png', fullPage: true });
+
     });
 
 });

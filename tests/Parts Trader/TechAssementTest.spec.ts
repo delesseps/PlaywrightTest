@@ -1,7 +1,8 @@
-import { test, expect  } from "@playwright/test";
-import { APHomePage } from "../../page-objects/Home/APHomePage";
+import { test, expect } from "@playwright/test";
 import { SearchPage } from "../../page-objects/Search Page/SearchPage";
 import { ProductsPage } from "../../page-objects/Products Page/ProductsPage";
+import { CheckoutPage } from "../../page-objects/Check Out Page/CheckoutPage";
+import BasePage from "../../page-objects/BasePage";
 
 
 test.describe("Parts Trader E2E:", () => {
@@ -17,24 +18,31 @@ test.describe("Parts Trader E2E:", () => {
 // Assert that the price equals $34.80
 //     Take a screenshot of the cart and attach it along with your code
 
-    let apHomePage,searchPage,productsPage: any;
+    // let searchPage,productsPage,checkoutPage: any;
+    let basePage: any;
 
-    test.beforeEach(async ({ page, context }) => {
-        apHomePage = new APHomePage(page);
-        searchPage = new SearchPage(page);
-        productsPage = new ProductsPage(page);
-        await apHomePage.navigate('http://automationpractice.com/index.php');
+    test.beforeEach(async ({ page }) => {
+        // searchPage = new SearchPage(page);
+        // productsPage = new ProductsPage(page);
+        // checkoutPage = new CheckoutPage(page);
+        basePage = new BasePage(page);
+        await page.goto('http://automationpractice.com/index.php');
+    });
+
+    test.afterEach(async ({ page }) => {
+        await page.close();
     });
     
-    test("Add to Cart Test", async ({ page, browserName, context }) => {
-        await apHomePage.productSearch('Printed Summer Dress');        
-        await searchPage.selectLowestPricedItem();
-        await productsPage.updateQuantity('2');
-        await productsPage.updateSize('M');
-        await productsPage.updateColorToGreen();
-        await productsPage.clickAddToCartButton();
-        await productsPage.clickProceedToCheckoutButton();
-        expect(await productsPage.checkTotalPrice()).toEqual("$34.80");
+    
+    test("Add to Cart Test", async ({page}) => {
+        await basePage.productSearch('Printed Summer Dress');        
+        await basePage.selectLowestPricedItem();
+        await basePage.updateQuantity('2');
+        await basePage.updateSize('M');
+        await basePage.updateColorToGreen();
+        await basePage.clickAddToCartButton();
+        await basePage.clickProceedToCheckoutButton();
+        expect(await basePage.checkTotalPrice()).toEqual("$34.80");
         await page.screenshot({ path: 'screenshot.png', fullPage: true });
     });
 

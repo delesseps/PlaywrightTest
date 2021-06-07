@@ -1,6 +1,5 @@
 import BasePage from "../BasePage";
 
-
 export class ProductsPage extends BasePage{
 
     constructor(_page: any) {
@@ -49,9 +48,6 @@ export class ProductsPage extends BasePage{
         await this.page.click(this.ProceedToCheckoutButton);
     }
 
-    async checkTotalPrice(){
-        return await this.page.innerText(this.TotalPrice);
-    }
 
 
 }

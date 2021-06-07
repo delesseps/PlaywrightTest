@@ -8,12 +8,13 @@ export default class BasePage {
     constructor(_page) {
         this.page = _page;
     }
-    public async navigate(text: string) {
-        await this.page.goto(text);
-    }
 
-    getTitle = async () => {
-        return this.page.title();
+    APSearchText = '#search_query_top';
+    APSearchButton = 'button[name="submit_search"]';
+
+    async productSearch(text: string){
+        await this.page.fill(this.APSearchText,text);
+        await this.page.click(this.APSearchButton);
     }
 }
 //module.exports = { basePage };

@@ -4,7 +4,7 @@
 
 ```
 npm install
-```
+
 if npm dependency didnt work, kindly do the steps below:
 
 npm i -D playwright

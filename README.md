@@ -4,6 +4,7 @@
 
 ```
 npm i -D playwright
+npm i -D @playwright/test@0.1101.0
 ```
 **How to run**
 ```

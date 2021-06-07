@@ -1,6 +1,5 @@
 // page-objects/basePage.ts
 
-
 export default class BasePage {
     //private __page: any;
     protected page: any;

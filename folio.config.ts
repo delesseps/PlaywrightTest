@@ -5,7 +5,7 @@ import { devices } from "playwright";
 setConfig({
   testDir: "tests/Parts Trader",  // Search for tests in this directory.
     timeout: 90000,  // Each test is given 90 seconds.
-    retries: 0,  // Failing tests will be retried at most two times.
+    retries: 1,  // Failing tests will be retried at most two times.
     workers: 6
 });
 

@@ -5,7 +5,7 @@
 ```
 npm install
 
-if npm dependency didnt work, kindly do the steps below:
+if npm install didnt work and shows dependency issues, kindly do the steps below:
 
 npm i -D playwright
 npm i -D @playwright/test@0.1101.0

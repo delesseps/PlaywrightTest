@@ -26,7 +26,7 @@ test.describe("Parts Trader E2E:", () => {
         await page.goto('http://automationpractice.com/index.php');
     });
         
-    test("Add to Cart Test Parallel", async ({page}) => {
+    test("Add to Cart Test", async ({page}) => {
         await searchPage.productSearch('Printed Summer Dress');        
         await searchPage.selectLowestPricedItem();
         await productsPage.updateQuantity('2');
@@ -34,7 +34,7 @@ test.describe("Parts Trader E2E:", () => {
         await productsPage.updateColorToGreen();
         await productsPage.clickAddToCartButton();
         await productsPage.clickProceedToCheckoutButton();
-        expect(await checkoutPage.checkTotalPrice()).toBe("$34.80");
+        expect(await checkoutPage.checkTotalPrice()).toEqual("$34.80");
         await page.screenshot({ path: 'screenshot.png', fullPage: true });
     });
 

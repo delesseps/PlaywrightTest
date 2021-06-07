@@ -34,7 +34,7 @@ test.describe("Parts Trader E2E:", () => {
         await productsPage.updateColorToGreen();
         await productsPage.clickAddToCartButton();
         await productsPage.clickProceedToCheckoutButton();
-        expect(await checkoutPage.checkTotalPrice()).toBe("$34.80");
+        expect(await checkoutPage.checkTotalPrice()).toEqual("$34.80");
         await page.screenshot({ path: 'screenshot.png', fullPage: true });
     });
 

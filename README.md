@@ -18,6 +18,10 @@ npm test or npx folio
 ```
 test-results/
 ```
+***Something to try next time***
+```
+https://www.npmjs.com/package/@playwright/test/v/0.1112.0-alpha3
+```
 
 
 

@@ -1,7 +1,7 @@
 {
   "name": "playwright-internal",
   "private": true,
-  "version": "1.13.0-next",
+  "version": "1.12.0",
   "description": "A high-level API to automate web browsers",
   "repository": "github:Microsoft/playwright",
   "homepage": "https://playwright.dev",
@@ -9,14 +9,16 @@
     "node": ">=12"
   },
   "dependencies": {
-    "@playwright/test": "^1.12.0",
     "babel": "^6.23.0",
     "playwright": "^1.12.0",
     "ts-mixer": "^5.4.1"
   },
   "scripts": {
-    "test": "npx folio --update-snapshots  --reporter=list --workers=6"
+    "test": "npx playwright test "
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.12.0"
+  }
 }

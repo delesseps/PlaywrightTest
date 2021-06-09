@@ -8,7 +8,7 @@ https://playwright.dev/docs/test-intro/
 **Installation**
 
 ```
-npm i -D playwright
+npm install playwright
 npm i -D @playwright
 ```
 **How to run**

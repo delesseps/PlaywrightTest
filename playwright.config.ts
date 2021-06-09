@@ -22,11 +22,11 @@ const config: PlaywrightTestConfig = {
             browserName: 'chromium',
             // Launch options
             headless: false,
-            screenshot: 'on',
             // Context options
             viewport: { width: 1280, height: 1024 },
             ignoreHTTPSErrors: true,
             // Testing options
+            screenshot: 'on',
             video: 'retain-on-failure',
           },
         },

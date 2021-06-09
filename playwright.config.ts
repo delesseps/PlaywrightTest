@@ -52,10 +52,10 @@ const config: PlaywrightTestConfig = {
             browserName: 'firefox',
             viewport: { width: 1280, height: 1024 },
             headless: false,
-            screenshot: 'on',
             ignoreHTTPSErrors: true,
             // Testing options
             video: 'retain-on-failure',
+            screenshot: 'on',
           }
         },
       ],

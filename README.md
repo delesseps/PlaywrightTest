@@ -1,5 +1,11 @@
 **Get started**
 
+**Playwright 1.12.0 has been released**
+```
+https://playwright.dev/docs/test-intro/
+new config and test runner will be implemented soon
+```
+
 **Installation**
 
 ```

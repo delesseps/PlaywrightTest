@@ -2,4 +2,6 @@ node_modules/
 test-results/
 .idea/
 junit.xml
+report.json
+report.xml
 screenshot.png
